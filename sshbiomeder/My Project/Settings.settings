@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SettingHostIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="SettingTunnelPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="SettingMySQLIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="SettingPLinkPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PLINK.EXE</Value>
+    </Setting>
+    <Setting Name="SettingFormName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Galleria - SSH Tunneling for Biomeder 2011</Value>
+    </Setting>
+    <Setting Name="SettingUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;username&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

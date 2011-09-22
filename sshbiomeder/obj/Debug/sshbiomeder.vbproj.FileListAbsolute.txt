@@ -1,0 +1,11 @@
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\obj\Debug\ResolveAssemblyReference.cache
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\obj\Debug\sshbiomeder.Form1.resources
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\obj\Debug\sshbiomeder.Resources.resources
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\obj\Debug\sshbiomeder.vbproj.GenerateResource.Cache
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\bin\Debug\sshbiomeder.exe
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\bin\Debug\sshbiomeder.pdb
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\bin\Debug\sshbiomeder.xml
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\obj\Debug\sshbiomeder.exe
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\obj\Debug\sshbiomeder.xml
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\obj\Debug\sshbiomeder.pdb
+J:\Visual Studio 2008\Projects\sshbiomeder\sshbiomeder\bin\Debug\sshbiomeder.exe.config
